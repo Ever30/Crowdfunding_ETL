@@ -2,7 +2,7 @@
 In this challenge, we test out some of the features we learned over the past weeks.
 
 # Team members
-Tan Vale, Iris Michelson, Dylan S., Nathan Transon, and Everardo Garcia. 
+Tan Vale, Iris Michelson, Dylan Sui, Nathan Transon, and Everardo Garcia. 
 
 # Instructions
 The instructions for this mini project are divided into the following subsections:
