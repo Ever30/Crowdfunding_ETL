@@ -1,5 +1,5 @@
 # Crowdfunding_ETL (Project 2)
-In this challenge,  we test some of the functions that we learned during this past week.
+In this challenge, we test out some of the features we learned over the past weeks.
 
 # Team members
 Tan Vale, Iris Michelson, Dylan S., Nathan Transon, and Everardo Garcia. 
